@@ -2,3 +2,4 @@ Netlify
 https://629a0f0b398d0c7f297650fb--gregarious-semolina-f14e83.netlify.app
 
 AWS
+https://main.d2034s85d4r16z.amplifyapp.com

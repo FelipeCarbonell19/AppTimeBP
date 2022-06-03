@@ -1,42 +1,45 @@
 body{
-    background-color: #2F3544;
-  }
+  background-color: lightcyan;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   
-  .App {
-    text-align: center;
-    
-  }
+}
+
+.App {
+  text-align: center;
   
-  .input-group{
-    width: 60%;
-  }
-  
-  .card{
-    max-width: 60%;
-  }
-  
-  .card-title{
-    position: absolute;
-    padding: 20px;
-  }
-  
-  .card-date{
-    position: absolute;
-    padding-left: 20px;
-    margin-top: 60px;
-  }
-  
-  .card-temp{
-    position: absolute;
-    padding-left: 20px;
-    margin-top: 260px;
-    font-size: 50px;
-  }
-  
-  .card-desc{
-    position: absolute;
-    padding-left: 20px;
-    margin-top: 320px;
-  }
-  
-  
+}
+
+.input-group{
+  width: 60%;
+}
+
+.card{
+  max-width: 60%;
+}
+
+.card-title{
+  position: absolute;
+  padding: 20px;
+}
+
+.card-date{
+  position: absolute;
+  padding-left: 25px;
+  margin-top: 60px;
+}
+
+.card-temp{
+  position: absolute;
+  padding-left: 40px;
+  margin-top: 300px;
+  font-size: 50px;
+}
+
+.card-desc{
+  position: absolute;
+  padding-left: 0px;
+  margin-top: 350px;
+}
+.navbar {
+  background-color: lightseagreen;
+}
